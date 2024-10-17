@@ -1,10 +1,10 @@
 # Obsidian Plugin: Format Replacer
 
 This plugin helps you replace certain patterns in your Obsidian notes:
-- Replaces `[` with `$$`
-- Replaces `]` with `$$`
-- Replaces `(` with `$`
-- Replaces `)` with `$`
+- Replaces `\[` with `$$`
+- Replaces `\]` with `$$`
+- Replaces `\( ` with `$`
+- Replaces ` \)` with `$`
 
 ## Installation
 
